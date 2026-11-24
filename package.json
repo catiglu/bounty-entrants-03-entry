@@ -1,0 +1,6 @@
+{
+  "name": "bounty-entrants-03-entry",
+  "private": true,
+  "type": "module",
+  "main": "main.ts"
+}
