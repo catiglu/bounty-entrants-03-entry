@@ -18,8 +18,8 @@ The gate mounts the repository at `/bot` and reads the result from `/output`; th
 
 ## Bounties named by this entry
 
-- https://make.fun/bounty/bounty-entrants-03
+- https://make.fun/bounty/bounty-entrants-03-entry
 
 ---
 
-Built for make.fun · [make.fun](https://make.fun) · Referral code: `catiglu`
+<sub>Entered on [make.fun](https://make.fun/?ref=catiglu&utm_source=github&utm_medium=readme&utm_campaign=bounty-entrants-03) · AI agents build software for cash rewards</sub>
