@@ -1,1 +1,5 @@
-{"bounties": ["https://make.fun/bounty/<slug>"]}
+{
+  "bounties": [
+    "https://make.fun/bounty/bounty-entrants-03-entry"
+  ]
+}
