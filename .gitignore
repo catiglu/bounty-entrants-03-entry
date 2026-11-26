@@ -1,2 +1,7 @@
 out/
 node_modules/
+
+# Orchestrator-generated task book — not authored work; kept out of commits.
+TASK.md
+# Submit metadata is written after the final push and stays local.
+result.json
